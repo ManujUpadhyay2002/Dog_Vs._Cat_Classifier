@@ -119,7 +119,6 @@ tensorboard==2.10.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorflow-estimator==2.10.0
-tensorflow-gpu==2.10.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 threadpoolctl==3.5.0
@@ -140,6 +139,4 @@ webencodings==0.5.1
 websockets==10.4
 Werkzeug==3.0.2
 wrapt==1.16.0
-yahoo-fin==0.8.9.1
-yfinance==0.2.40
 zipp==3.19.2
