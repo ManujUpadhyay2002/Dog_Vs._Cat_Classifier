@@ -96,9 +96,8 @@ pyppeteer==2.0.0
 pyquery==2.0.0
 python-dateutil==2.9.0.post0
 pytz==2024.1
-pywin32==306
+pywin32==305
 pyzmq==26.0.3
-python==3.10.6
 referencing==0.35.1
 requests==2.31.0
 requests-html==0.10.0
