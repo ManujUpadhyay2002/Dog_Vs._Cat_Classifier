@@ -3,7 +3,7 @@ import tensorflow as tf
 import cv2 as cv
 import matplotlib.pyplot as plt
 
-loaded_model = tf.keras.models.load_model('./Models/model_3_aug')
+loaded_model = tf.keras.models.load_model('./model_3_aug')
 
 st.title('Dog Vs. Cat Classifier : ')
 
